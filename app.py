@@ -1,4 +1,4 @@
-print("Hello from Python via Jenkins 🚀")
+print("Hello from Python via Jenkins ")
 
 a = 10
 b = 20
